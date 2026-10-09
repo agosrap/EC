@@ -49,3 +49,10 @@ Las 41 posiciones están cubiertas. Origen de cada una:
 Las 41 fotos están en `assets/img/` (vienen del zip `fotos-curso-ecrepro.zip`). La portada y el separador del Bloque 1 ya llevan a Gaspar compuesto sobre el fondo negro.
 
 Para sustituir cualquiera por una foto real, basta con guardar la nueva con el mismo nombre en `assets/img/`. Las que más ganarían con material real: trayectoria y competición de Gaspar (Bloque 1, hoy son ilustraciones) y la placa abierta con los chips reales que se usen en el curso.
+
+## Revisión del cliente (9 oct 2026)
+- Portada: banco de trabajo sin retrato de Gaspar.
+- 3.2 y 3.4: una foto por pestaña con el componente señalado (`placa-*.jpg`, `mem-*.jpg`).
+- 3.6b: vídeo de TikTok sobre el sistema antiestático incrustado + foto de la pulsera con toma de tierra.
+- 5.3: foto del puerto OBD bajo el salpicadero.
+- Marca de agua ECREPRO Paraguay en el centro y logos ElectrónicaCar + ECREPRO en la barra inferior y en la portada (cargan desde ecrepro.com; para tenerlos en local, guardar como `assets/logo-electronicacar.png` y `assets/logo-ecrepro.png`).
